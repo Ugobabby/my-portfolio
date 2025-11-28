@@ -264,6 +264,10 @@ section{
   border: 3px solid var(--main-color);
   box-shadow: 0 0 25px var(--main-color);
 }
+.pre{
+  width: 450px;
+  height: 200px;
+}
 .wrapper{
   display: grid;
   grid-template-columns: repeat(3,1fr);
